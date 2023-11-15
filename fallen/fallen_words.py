@@ -1,0 +1,18 @@
+word_list = [
+    "accept",
+    "aerobics",
+    "airoport",
+    "beautiful",
+    "birthday",
+    "cabbage",
+    "chocolate",
+    "Christmas",
+    "clever",
+    "daughter",
+    "delicious",
+    "everyone",
+    "engineer",
+    "family",
+    "factory",
+    "favorite",
+]
